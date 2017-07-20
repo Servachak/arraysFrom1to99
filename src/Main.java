@@ -8,6 +8,8 @@ public class Main {
         ArraysInLine inLine = new ArraysInLine();
 
         inLine.writeArray();
+
+
     }
 
 

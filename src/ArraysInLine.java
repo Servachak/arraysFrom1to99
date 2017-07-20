@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 /**
  * Created by adavi on 20.07.2017.
  */
@@ -16,6 +18,9 @@ public class ArraysInLine implements ArrayWrite{
         }
         }
 
+        System.out.println("");
+        SortArray sortArray = new SortArray();
+        sortArray.sort(arr);
 
     }
 }
